@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_explore"
+        android:icon="@drawable/baseline_remove_red_eye_24"
+        android:title="Explore" />
+    <item
+        android:id="@+id/bottom_network"
+        android:icon="@drawable/noun_network_24"
+        android:title="Network" />
+    <item
+        android:id="@+id/bottom_chat"
+        android:icon="@drawable/round_chat_24"
+        android:title="Chat" />
+    <item
+        android:id="@+id/bottom_contact"
+        android:icon="@drawable/baseline_contacts_24"
+        android:title="Contacts" />
+    <item
+        android:id="@+id/bottom_groups"
+        android:icon="@drawable/baseline_tag_24"
+        android:title="Groups" />
+</menu>

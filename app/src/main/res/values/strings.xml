@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Netclan Explorer</string>
+    <string-array name="availbilities">
+        <item>Available | Hey Let us Connect</item>
+        <item>Away| Stay Discreet and Watch</item>
+        <item>Busy | Do not Disturb | Will Catch U.</item>
+        <item>SOS| Emergency Need Assistence</item>
+
+    </string-array>
+</resources>
